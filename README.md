@@ -1,11 +1,11 @@
 <h2>Hello,</h2>
 <img align="right" src="BannerGithub.png" width="500" height="250" max-width="500" max-height="250">
 I'm Blue and i'm a software engeneer;<br>
-I'm from the Netherlands and currently working at [JokeDevil.com](https://github.com/JokeDevil);<br>
-Wanna have a chat with me? you can reach me at discord: [Discord](https://discord.gg/m4BvmkG);<br>
+I'm from the Netherlands and currently working at <a href="https://github.com/JokeDevil-com">JokeDevil.com</a>;<br>
+Wanna have a chat with me? you can reach me at discord: <a href="https://discord.gg/m4BvmkG">Discord</a>;<br>
 
 • 💬 Ask me about anything, I am happy to help;<br>
-• 📫 How to reach me: [Discord](https://discord.gg/m4BvmkG);<br>
+• 📫 How to reach me: <a href="https://discord.gg/m4BvmkG">Discord</a>;<br>
 
 **Languages and Tools:**  
 
